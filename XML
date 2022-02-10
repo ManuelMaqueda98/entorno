@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Lenguajesdeprogramacion>
+  <lenguaje>
+<python valoracion ="13.58%">
+<Enero_2021>3</Enero_2021>
+<Enero_2022>1</Enero_2022>
+<Cambio>+1.86%</Cambio>
+</python>
+</lenguaje>
+  <lenguaje>
+
+<C valoracion ="12.44%">
+<Enero_2021>1</Enero_2021>
+<Enero_2022>2</Enero_2022>
+<Cambio>-4.94%</Cambio>
+</C>
+</lenguaje>
+  <lenguaje>
+
+<Java valoracion ="10.66%">
+<Enero_2021>2</Enero_2021>
+<Enero_2022>3</Enero_2022>
+<Cambio>-1.30%</Cambio>
+</Java>
+</lenguaje>
+  <lenguaje>
+
+<Cplus valoracion ="8.29%">
+<Enero_2021>4</Enero_2021>
+<Enero_2022>4</Enero_2022>
+<Cambio>+0.73%</Cambio>
+</Cplus>
+</lenguaje>
+  <lenguaje>
+
+<Calmoadilla valoracion ="5.68%">
+<Enero_2021>5</Enero_2021>
+<Enero_2022>5</Enero_2022>
+<Cambio>+1.73%</Cambio>
+</Calmoadilla>
+</lenguaje>
+  <lenguaje>
+
+<Visual_Basic valoracion ="4.74%">
+<Enero_2021>6</Enero_2021>
+<Enero_2022>6</Enero_2022>
+<Cambio>+0.90%</Cambio>
+</Visual_Basic>
+</lenguaje>
+  <lenguaje>
+
+<JavaScript valoracion ="2.09%">
+<Enero_2021>7</Enero_2021>
+<Enero_2022>7</Enero_2022>
+<Cambio>-0.11%</Cambio>
+</JavaScript>
+</lenguaje>  <lenguaje>
+
+<Codigo_Ensabamblador valoracion ="1.85%">
+<Enero_2021>11</Enero_2021>
+<Enero_2022>8</Enero_2022>
+<Cambio>+0.21%</Cambio>
+</Codigo_Ensabamblador>
+</lenguaje>  <lenguaje>
+
+<SQL valoracion ="1.80%">
+<Enero_2021>12</Enero_2021>
+<Enero_2022>9</Enero_2022>
+<Cambio>+0.19%</Cambio>
+</SQL>
+</lenguaje>  <lenguaje>
+
+<Swift valoracion ="1.41%">
+<Enero_2021>13</Enero_2021>
+<Enero_2022>10</Enero_2022>
+<Cambio>-0.02%</Cambio>
+</Swift>
+</lenguaje>  <lenguaje>
+
+<PHP valoracion ="1.40%">
+<Enero_2021>8</Enero_2021>
+<Enero_2022>11</Enero_2022>
+<Cambio>-0.60%</Cambio>
+</PHP>
+</lenguaje>  <lenguaje>
+
+<R valoracion ="1.25%">
+<Enero_2021>9</Enero_2021>
+<Enero_2022>12</Enero_2022>
+<Cambio>-0.65%</Cambio>
+</R>
+</lenguaje>  <lenguaje>
+
+<Go valoracion ="1.04%">
+<Enero_2021>14</Enero_2021>
+<Enero_2022>13</Enero_2022>
+<Cambio>-0.37</Cambio>
+</Go>
+</lenguaje>  <lenguaje>
+
+<Pascal valoracion ="0.99%">
+<Enero_2021>19</Enero_2021>
+<Enero_2022>14</Enero_2022>
+<Cambio>-0.37%</Cambio>
+</Pascal>
+</lenguaje>  <lenguaje>
+
+<Classic_Visual_Basic valoracion ="0.98%">
+<Enero_2021>20</Enero_2021>
+<Enero_2022>15</Enero_2022>
+<Cambio>+0.19%</Cambio>
+</Classic_Visual_Basic>
+</lenguaje>  <lenguaje>
+
+<MATLAB valoracion ="0.96%">
+<Enero_2021>16</Enero_2021>
+<Enero_2022>16</Enero_2022>
+<Cambio>-0.19%</Cambio>
+</MATLAB>
+</lenguaje>  <lenguaje>
+
+<Groovy valoracion ="'0.94%">
+<Enero_2021>10</Enero_2021>
+<Enero_2022>17</Enero_2022>
+<Cambio>-0.90%</Cambio>
+</Groovy>
+</lenguaje>  <lenguaje>
+
+<Ruby valoracion ="0.88%">
+<Enero_2021>15</Enero_2021>
+<Enero_2022>18</Enero_2022>
+<Cambio>-0.43%</Cambio>
+</Ruby>
+</lenguaje>  <lenguaje>
+
+<Fortran valoracion ="0.77%">
+<Enero_2021>30</Enero_2021>
+<Enero_2022>19</Enero_2022>
+<Cambio>+0.31%</Cambio>
+</Fortran>
+</lenguaje>  <lenguaje>
+
+<Perl valoracion ="0.71%">
+<Enero_2021>17</Enero_2021>
+<Enero_2022>20</Enero_2022>
+<Cambio>-0.31%</Cambio>
+</Perl>
+</lenguaje>
+</Lenguajesdeprogramacion>
