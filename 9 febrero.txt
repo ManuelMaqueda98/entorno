@@ -1,0 +1,74 @@
+Medicamentos (medicamentos.xml)
+
+  El nombre de los paciente 36, 46, 28
+
+	paciente 36-Rudyard Daniel
+	paciente 46-Sarah Butler
+	paciente 28-Xavier crawford
+
+  El medicamento que toman los pacientes 15, 35 y 8
+	15-Citalopram HBr
+	35-Famotidine
+	8-Vitamin D (Rx)
+
+	
+  El precio de los medicamento de los últimos 7 pacientes
+		17,81
+		31.56
+		3.03
+		4.88
+		58.18
+		33.02
+		41.29
+
+  La fecha de alta de los 5 primeros pacientes
+		01/06/2020
+		01/09/2020
+		09/06/2020
+		11/10/2020
+		29/02/2020
+  
+  Vehículos 
+    
+    Los 4 últimos destinos
+		Netherlands,France,Austria,Colombia
+	
+    Los 10 primeros modelos
+
+Chevrolet,Ferrari,Volkswagen,Ford,Bmw,Porsche,Peugeot,Ferrari,Ferrari,Seat
+
+    Los nombres de los destinatarios 120, 70 y 65
+	120-Channing Levy
+	70-Jameson Harrison
+	65-Adara Dunlap
+	
+    El correo electrónico de los destinatarios 99, 35 y 76
+
+	99-mollis.duis@protonmail.com
+	35-at@outlook.com
+	76-iaculis@outlook.us
+
+    Los 10 primeros identificadores
+	749
+	42057
+	16354
+	69509
+	85751
+	50415
+	72741
+	14131
+	92475
+	35529
+
+ 
+
+Lenguajes
+
+ 
+
+  La valoración de los 5 primeros lenguajes
+	
+  El histórico de enero 2021 de los últimos 5 lenguajes
+  El cambio de los los lenguajes de programación que ocupan un
+  puesto impar
+  Los últimos 4 lenguajes de programación
